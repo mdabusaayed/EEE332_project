@@ -17,3 +17,7 @@
 • It will transmit data instantly. 
 
 • It’s an automatic system that need not to turn on whole period of time. It will start collecting data after a certain period.
+
+The video is available on Youtube.
+Go to> https://youtu.be/LAWbACg0wic
+Or> http://bit.ly/eee332proj
