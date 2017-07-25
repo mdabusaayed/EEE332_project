@@ -1,4 +1,4 @@
-# EEE332_project
+# Robotic Supervision System for Land
 
 • A smart robotic system that can observe the temperature, moisture etc. condition of soil that is beneficial for cultivation. 
 
