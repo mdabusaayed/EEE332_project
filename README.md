@@ -1,5 +1,7 @@
 # Robotic Supervision System for Land
 
+video preview:  https://youtu.be/LAWbACg0wic
+
 • A smart robotic system that can observe the temperature, moisture etc. condition of soil that is beneficial for cultivation. 
 
 • We observe these conditions using this robotic system for the purpose of reduce sensor numbers over land. It’s a very flexible system and not very complex. 
